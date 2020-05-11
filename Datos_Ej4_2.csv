@@ -1,4 +1,4 @@
-﻿Tipo,Periodo,Mes,Cant_Dinero,Log_Cant_Dinero,INPC,Cant_Dinero_Real,PIB_Nominal,Velocidad,Tasa_de_Crecimiento
+Tipo,Periodo,Mes,Cant_Dinero,Log_Cant_Dinero,INPC,Cant_Dinero_Real,PIB_Nominal,Velocidad,Tasa_de_Crecimiento
 M0,2003,1,"263,936,900",8.421500112,53.52544068,4931055,2581814.245,0.009781937,
 M0,2003,2,"246,102,000",8.391115143,53.67412245,4585115,2581814.245,0.01049083,-7.0%
 M0,2003,3,"241,402,100",8.382741044,54.01293041,4469339,2581814.245,0.010695078,-2.5%
